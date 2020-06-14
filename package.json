@@ -7,6 +7,10 @@
     "test": "mocha test --reporter mocha-junit-reporter",
     "posttest": "mocha"
   },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/Nishthashree96/Clone.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
